@@ -3838,40 +3838,40 @@
         const openPopupBtnInverterMobile5 = document.querySelector("#inverter-popup-mobile-button-5");
         const openPopupBtnInverterMobile6 = document.querySelector("#inverter-popup-mobile-button-6");
         openPopupBtnInverter1.addEventListener("click", (() => {
-            iframeInverter1.src = "https://drive.google.com/file/d/127rQbzJooagUq5i4QR1bO2t27y5s69qv/preview";
+            iframeInverter1.src = "https://drive.google.com/file/d/1tmuaAvD2xJuPD_qFg3FNTFd_FYdvK5v5/preview";
         }));
         openPopupBtnInverter2.addEventListener("click", (() => {
-            iframeInverter2.src = "https://drive.google.com/file/d/10XZZuiPQvdOHU7f6aOVY5cf88UuGGMB4/preview";
+            iframeInverter2.src = "https://drive.google.com/file/d/14h6fqcUWQJXy4QEJJKzVkWXB-d9d4R_L/preview";
         }));
         openPopupBtnInverter3.addEventListener("click", (() => {
-            iframeInverter3.src = "https://drive.google.com/file/d/1gFUhh-mwiCdEh_V8bqJcF5RJG6rit8o6/preview";
+            iframeInverter3.src = "https://drive.google.com/file/d/14mFIG6LncQd1xKn00ggSgTFCy_h-o8W5/preview";
         }));
         openPopupBtnInverter4.addEventListener("click", (() => {
-            iframeInverter4.src = "https://drive.google.com/file/d/1GV7opQDzHU2LppWUh_smjhpXryexziQ_/preview";
+            iframeInverter4.src = "https://drive.google.com/file/d/1UJ7-I3PCaYOZS3asZQGAqBe38ei0p0eA/preview";
         }));
         openPopupBtnInverter5.addEventListener("click", (() => {
-            iframeInverter5.src = "https://drive.google.com/file/d/17-pPHum-gmvJd66JUxQliFjFJsTV9ca6/preview";
+            iframeInverter5.src = "https://drive.google.com/file/d/1RLV7FwxSeN0PlyRil5ptbLM5ivTIFmlh/preview";
         }));
         openPopupBtnInverter6.addEventListener("click", (() => {
-            iframeInverter6.src = "https://drive.google.com/file/d/1ToTzhTKFtlOtZSuNd5xqYqkL1wqEZkeC/preview";
+            iframeInverter6.src = "https://drive.google.com/file/d/1Zb2GFzO3ypmI9t7UZwlcQ47AzySXcFlS/preview";
         }));
         openPopupBtnInverterMobile1.addEventListener("click", (() => {
-            iframeInverter1.src = "https://drive.google.com/file/d/127rQbzJooagUq5i4QR1bO2t27y5s69qv/preview";
+            iframeInverter1.src = "https://drive.google.com/file/d/1tmuaAvD2xJuPD_qFg3FNTFd_FYdvK5v5/preview";
         }));
         openPopupBtnInverterMobile2.addEventListener("click", (() => {
-            iframeInverter2.src = "https://drive.google.com/file/d/10XZZuiPQvdOHU7f6aOVY5cf88UuGGMB4/preview";
+            iframeInverter2.src = "https://drive.google.com/file/d/14h6fqcUWQJXy4QEJJKzVkWXB-d9d4R_L/preview";
         }));
         openPopupBtnInverterMobile3.addEventListener("click", (() => {
-            iframeInverter3.src = "https://drive.google.com/file/d/1gFUhh-mwiCdEh_V8bqJcF5RJG6rit8o6/preview";
+            iframeInverter3.src = "https://drive.google.com/file/d/14mFIG6LncQd1xKn00ggSgTFCy_h-o8W5/preview";
         }));
         openPopupBtnInverterMobile4.addEventListener("click", (() => {
-            iframeInverter4.src = "https://drive.google.com/file/d/1GV7opQDzHU2LppWUh_smjhpXryexziQ_/preview";
+            iframeInverter4.src = "https://drive.google.com/file/d/1UJ7-I3PCaYOZS3asZQGAqBe38ei0p0eA/preview";
         }));
         openPopupBtnInverterMobile5.addEventListener("click", (() => {
-            iframeInverter5.src = "https://drive.google.com/file/d/17-pPHum-gmvJd66JUxQliFjFJsTV9ca6/preview";
+            iframeInverter5.src = "https://drive.google.com/file/d/1RLV7FwxSeN0PlyRil5ptbLM5ivTIFmlh/preview";
         }));
         openPopupBtnInverterMobile6.addEventListener("click", (() => {
-            iframeInverter6.src = "https://drive.google.com/file/d/1ToTzhTKFtlOtZSuNd5xqYqkL1wqEZkeC/preview";
+            iframeInverter6.src = "https://drive.google.com/file/d/1Zb2GFzO3ypmI9t7UZwlcQ47AzySXcFlS/preview";
         }));
         const openPopupBtnBattery1 = document.querySelector("#battery-popup-button-1");
         const openPopupBtnBattery2 = document.querySelector("#battery-popup-button-2");
