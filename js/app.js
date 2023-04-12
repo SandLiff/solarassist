@@ -3904,10 +3904,10 @@
             iframeBattery4.src = "https://drive.google.com/file/d/1c0RkymPWGvhCU0aV7wEnkvLGlJoVaVc1/preview";
         }));
         openPopupBtnBattery5.addEventListener("click", (() => {
-            iframeBattery5.src = "https://drive.google.com/file/d/1CiwJ6GtBadQRvuOr9Ug4-v5Y2R1tPhHl/preview";
+            iframeBattery5.src = "https://drive.google.com/file/d/1Fy0cQGDAtuPMDmXFKM3c5vEjdkWAsf0V/preview";
         }));
         openPopupBtnBattery6.addEventListener("click", (() => {
-            iframeBattery6.src = "https://drive.google.com/file/d/1CiwJ6GtBadQRvuOr9Ug4-v5Y2R1tPhHl/preview";
+            iframeBattery6.src = "https://drive.google.com/file/d/1-gLGvSOvWbbblTiwzG7bZ3LxHlvEb_w7/preview";
         }));
         openPopupBtnBatteryMobile1.addEventListener("click", (() => {
             iframeBattery1.src = "https://drive.google.com/file/d/1SW_qlubWgKroLjHx744TrebPmcbj9Hib/preview";
@@ -3922,10 +3922,10 @@
             iframeBattery4.src = "https://drive.google.com/file/d/1c0RkymPWGvhCU0aV7wEnkvLGlJoVaVc1/preview";
         }));
         openPopupBtnBatteryMobile5.addEventListener("click", (() => {
-            iframeBattery5.src = "https://drive.google.com/file/d/1CiwJ6GtBadQRvuOr9Ug4-v5Y2R1tPhHl/preview";
+            iframeBattery5.src = "https://drive.google.com/file/d/1Fy0cQGDAtuPMDmXFKM3c5vEjdkWAsf0V/preview";
         }));
         openPopupBtnBatteryMobile6.addEventListener("click", (() => {
-            iframeBattery6.src = "https://drive.google.com/file/d/1CiwJ6GtBadQRvuOr9Ug4-v5Y2R1tPhHl/preview";
+            iframeBattery6.src = "https://drive.google.com/file/d/1-gLGvSOvWbbblTiwzG7bZ3LxHlvEb_w7/preview";
         }));
         const openPopupBtnPanel1 = document.querySelector("#panel-popup-button-1");
         const openPopupBtnPanel2 = document.querySelector("#panel-popup-button-2");
